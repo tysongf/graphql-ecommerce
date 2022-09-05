@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server",
+  "version": "0.0.1",
+  "description": "A Boilerplate GraphQL Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysongf/graphql-server.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Tyson G Fritz",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tysongf/graphql-server/issues"
+  },
+  "homepage": "https://github.com/tysongf/graphql-server#readme"
+}
