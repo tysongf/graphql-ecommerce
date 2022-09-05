@@ -1,3 +1,7 @@
+type Query {
+   reviews: [Review]
+}
+   
 type Review {
    rating: Int!
    comment: String

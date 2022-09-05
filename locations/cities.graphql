@@ -1,3 +1,7 @@
+type Query {
+   cities: [City]
+}
+
 type City {
    id: ID!
    name: String!

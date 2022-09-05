@@ -1,3 +1,7 @@
+type Query {
+   addresses: [Address]
+}
+
 type Address {
    id: ID!
    type: String! #shipping / billing
