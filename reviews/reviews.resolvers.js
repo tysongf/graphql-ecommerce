@@ -1,5 +1,8 @@
+
+const reviewsModel = require('./reviews.model');
+
 module.exports = {
    Query: {
-      reviews: () => { return require('./reviews.model').getAllReviews() }
+      reviews: () => { return reviewsModel.getAllReviews() }
    }
 }

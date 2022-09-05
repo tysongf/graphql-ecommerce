@@ -1,8 +1,10 @@
-type Query {
-   reviews: [Review]
-}
-   
+
 type Review {
+   id: ID!
    rating: Int!
    comment: String
+}
+
+type Query {
+   reviews: [Review]
 }

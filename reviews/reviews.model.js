@@ -1,8 +1,10 @@
 
+const reviews = [];
+
 function getAllReviews() {
-   return [];
+   return reviews;
 }
 
 module.exports = {
-   getAllReviews,
+   getAllReviews
 }
