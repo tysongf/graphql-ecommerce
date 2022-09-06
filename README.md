@@ -1,2 +1,2 @@
 # graphql-server
-A Boilerplate GraphQL Server
+A GraphQL Server with an E-Commerce schema
